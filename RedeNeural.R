@@ -1,6 +1,6 @@
 
 
-# - By Charles Araujo Campos - in 07/2020.
+# - By Charles Araujo Campos - in 07/2020. Alteração
 #-------------------- REDE Neural / Deep learning / 2 Hidden Layer
 
 # Definindo funções 
