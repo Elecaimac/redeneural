@@ -1,7 +1,7 @@
 
 
 
-#-------------------- REDE Neural / Deep learning / 2 Hidden Layers
+#-------------------- REDE Neural / Deep learning / 2 Hidden Layer
 
 # Definindo funções 
 # Função Sigmoid
