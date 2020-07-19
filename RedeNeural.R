@@ -1,6 +1,6 @@
 
 
-
+# - By Charles Araujo Campos - in 07/2020.
 #-------------------- REDE Neural / Deep learning / 2 Hidden Layer
 
 # Definindo funções 
